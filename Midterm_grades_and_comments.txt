@@ -1,0 +1,27 @@
+
+Part I Scores: 29
+
+Part 2 Grading Rubrics:
+Problem 1:
+- add_item function:                5 out of 5 points
+- calculate_total function:         5 out of 5 points  
+- apply_discount function:          5 out of 5 points
+
+Problem 2:
+- add_student_to_club:              5 out of 5 points
+- get_students_in_multiple_clubs:   5 out of 5 points
+- find_exclusive_members:           5 out of 5 points
+- merge_clubs:                      10 out of 10 bonus points
+
+Problem 3:
+- create_score_array:               5 out of 5 points
+- find_struggling_students:         5 out of 5 points
+- curve_scores:                     5 out of 5 points
+- get_exam_statistics:              5 out of 5 points
+
+Total: 60 out of 35!
+Great job, Jayden, Keep it up!
+
+Details:
+Problem 3:
+Line 17-18: Great checking for boundary conditions
