@@ -1,5 +1,5 @@
 
-Part I Scores: 29
+Part I Scores: 26
 
 Part 2 Grading Rubrics:
 Problem 1:
