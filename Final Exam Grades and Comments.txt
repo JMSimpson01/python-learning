@@ -1,0 +1,20 @@
+Part I              28.5 out of 40
+Part II             92 out of 50
+Part II Grading Rubrics:
+Problem 1:                  25 out of 25
+    Open File and read:     10 out of 10
+    Count lines:            5 out of 5
+    Count Words:            5 out of 5
+    Count Characters:       5 out of 5
+
+Problem 2:                  27 out of 25 -- Great checking for boundary conditions
+    __init__:               5 out of 5
+    add_grade:              5 out of 5
+    calculate_average:      5 out of 5
+    get_status:             10 out of 10
+
+Problem 3:                  25 out of 25
+    List indexing:          10 out of 10    
+    Exception handling:     15 out of 15
+
+Problem 4:                  15 out of 25 -- Used iteration not recursion
